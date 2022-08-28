@@ -598,7 +598,7 @@ body{
         width: 80%;
     }
     .projectsEntry{
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .projectImage{
         width: 80%;
